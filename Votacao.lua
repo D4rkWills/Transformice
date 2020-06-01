@@ -1,4 +1,4 @@
-local adm="Jp_darkuss#4806"
+local adm="" --nome do administrador
 local voting= false --se está havendo votação
 local candidatos= {} --os candidatos
 local eixoX, eixoY= 0, 1
