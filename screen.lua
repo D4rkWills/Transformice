@@ -5,7 +5,7 @@
 local screen= {}
 screen.__index= screen
 function screen:new(id, text, player, x, y, width, height, background, border, opacity, static)
-	object= {
+	local object= {
 		id= id,
 		text= text,
 		player= player,
