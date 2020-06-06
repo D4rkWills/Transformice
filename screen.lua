@@ -30,7 +30,6 @@ end
 function screen:Remove(player)
 	player= player or self.player
 	ui.removeTextArea(self.id, player)
-	self.update(player)
 end
 function screen:Move(x, y, player)
 	self.x, self.y= x or self.x, y or self.y
