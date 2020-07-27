@@ -1,3 +1,7 @@
+--[[
+	Check Box Button v1.0
+	Made by Jp_darkuss#4806 at 27/07, have fun! :)
+]]
 local memory= {}
 local new= function(player)
 		memory[player]= {}
