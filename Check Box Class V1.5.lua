@@ -1,5 +1,5 @@
 --[[
-	Check Box Button v1.0
+	Check Box Button v1.5
 	Made by Jp_darkuss#4806 at 27/07, have fun! :)
 ]]
 local memory= {}
