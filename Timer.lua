@@ -5,8 +5,9 @@
     Version: 2.1
 
 	**New**
-    * Removed all unecessary things (timer.get, parameters to timer, args, timer.list)
+    * Removed all unecessary things (timer.get, parameters to timer, args, timer.list, eventTimerFinish)
     * Renamed functions (timer.remove, timer.new)
+    * Renamed events (eventTimerRemove)
     * Amount of lines decreased
     * Parameter last is a boolean value now
 
